@@ -10,7 +10,7 @@
 import pandas as pd
 
 
-#file ="/Users/erandi/Documents/Data-Portfolio/cheminformatics/Atomic_weight.csv"
+#file =".....Atomic_weight.csv"
 #df_mw = pd.read_csv(file)
 #df_mw.dtypes
 #df_mw.columns
