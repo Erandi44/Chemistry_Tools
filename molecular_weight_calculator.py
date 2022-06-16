@@ -4,7 +4,7 @@
 #   No of elements present in the formula, Symbol of each elemnt and no of atoms from each element
 #
 # Author: Erandika Karunaratne
-# Date : 10-04-2022
+# Date : 2022-04-10
 # ------------------------------------------------------------------------------------------------------------
 
 import pandas as pd
