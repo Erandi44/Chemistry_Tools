@@ -1,7 +1,7 @@
 '''
 Date: 2022-08-03
 Author: Erandika Karunaratne
-Object: This script calculates following 21 2D-molecular descriptors for set of molecules provides as an sdf file.
+Object: This script calculates following 2D-molecular descriptors for set of molecules provides as an sdf file.
 
             ‘ExactMolWt’,
             ‘MolLogP’,
